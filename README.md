@@ -8,4 +8,4 @@ The main goal of the project is to demonstrate the possibilities of
 - GoogleMaps, MarkerClusterer API and integration with TypeScript
 - Ext.js
 
-The current code might not be working as the dependencies became stale. Unfortunatelly any work on this package is abandoned.
+The current code might not be working as the dependencies became stale. Unfortunatelly any work on this package has been abandoned.
